@@ -59,6 +59,11 @@ export const footerData = {
     },
     {
       id: nanoid(),
+      name: 'youtube',
+      url: 'https://www.youtube.com/channel/UC8pZNkCfDwV36B0CQlXWaWg',
+    },
+    {
+      id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/rajsinghparihar/',
     },
