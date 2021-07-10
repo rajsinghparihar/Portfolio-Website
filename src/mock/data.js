@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Demo1.gif',
+    img: 'project2.png',
     title: 'PsypherX: CLI App for Password Encryption',
     info: 'Secure your passwords with AES encryption with this cool terminal text animations based app',
     info2: 'made using pycryptodome,pyinquirer, and python, the motive of this project was to learn how to use complex libraries in python and integrate them in a working app',
